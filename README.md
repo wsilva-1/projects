@@ -1,4 +1,6 @@
-## R Projects
+# Data Analysis Work Samples
+
+## Projects in R
 
 ### R Project 1
 
