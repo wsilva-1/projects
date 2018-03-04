@@ -1,12 +1,9 @@
+## R Projects
 
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### R Project 1
 
 ```markdown
-Syntax highlighted code block
-
+This is a code block.
 
 - Bulleted
 - List
@@ -16,15 +13,10 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](www.linkedin.com/in/warren-silva/) and ![Image](src)
 ```
+### R Project 2
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Visualizations in Tableau
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wsilva-1/warrensilva.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Tableau Project 1
